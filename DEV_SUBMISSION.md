@@ -47,6 +47,7 @@ Built specifically for the **"Touch Grass"** challenge, FloraSprout is an open-s
 
 ## Demo
 
+- **Live Web Showcase (GitHub Pages):** [https://lakshchinchmalatpure.github.io/HacktoberFest_Weekday01_PlantCare_AI/](https://lakshchinchmalatpure.github.io/HacktoberFest_Weekday01_PlantCare_AI/)
 - **Live GitHub Repository:** [LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI](https://github.com/LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI)
 - **Local Application URL:** `http://localhost:8501`
 

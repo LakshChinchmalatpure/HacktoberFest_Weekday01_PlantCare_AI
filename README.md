@@ -8,6 +8,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-3b82f6.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg)](https://streamlit.io)
 [![CI](https://github.com/LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI/actions/workflows/ci.yml/badge.svg)](https://github.com/LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI/actions/workflows/ci.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Showcase-10b981?logo=github)](https://lakshchinchmalatpure.github.io/HacktoberFest_Weekday01_PlantCare_AI/)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI&branch=main&mainModule=app.py)
 
 ---
