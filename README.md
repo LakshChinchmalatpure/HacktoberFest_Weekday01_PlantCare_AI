@@ -13,6 +13,8 @@
 
 ---
 
+Live/Deployed Link :  https://lakshchinchmalatpure.github.io/HacktoberFest_Weekday01_PlantCare_AI/
+
 ## 🌿 The "Touch Grass" Vision
 
 Most modern digital products are designed to maximize user screen time, ad impressions, and endless scrolling. **FloraSprout turns that paradigm on its head.**
