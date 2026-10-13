@@ -3,6 +3,13 @@
 > **"Touch Grass" Open-Source AI Hackathon Edition**  
 > *A lightweight, offline-first botanical companion powered by local Google Gemma open-weight models, LangChain, and Streamlit.*
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-10b981.svg)](LICENSE)
+[![Hacktoberfest 2026](https://img.shields.io/badge/Hacktoberfest-2026-f97316.svg)](https://hacktoberfest.com/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-3b82f6.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg)](https://streamlit.io)
+[![CI](https://github.com/LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI/actions/workflows/ci.yml/badge.svg)](https://github.com/LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI/actions/workflows/ci.yml)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI&branch=main&mainModule=app.py)
+
 ---
 
 ## 🌿 The "Touch Grass" Vision
@@ -91,6 +98,21 @@ If you wish to use the local neural AI engine alongside the built-in botanical k
 streamlit run app.py
 ```
 Open your browser at `http://localhost:8501`.
+
+---
+
+## 🌐 Deploy to the Cloud (Free 1-Click)
+
+### Streamlit Community Cloud
+You can deploy FloraSprout directly from this GitHub repository for free:
+1. Click the **[Open in Streamlit](https://share.streamlit.io/deploy?repository=LakshChinchmalatpure/HacktoberFest_Weekday01_PlantCare_AI&branch=main&mainModule=app.py)** badge.
+2. Sign in with your GitHub account.
+3. Set **Main file path** to `app.py`.
+4. (Optional) In **Advanced settings > Secrets**, add your `GEMINI_API_KEY`:
+   ```toml
+   GEMINI_API_KEY = "your_key_here"
+   ```
+5. Click **Deploy!** Your app will be live at `https://<your-subdomain>.streamlit.app`.
 
 ---
 
